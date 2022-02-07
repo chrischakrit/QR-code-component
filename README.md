@@ -9,7 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -19,13 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](.image/screenshot.jpg)
+![](image/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
-## My process
+- Solution URL: https://chrischakrit.github.io/QR-code-component/
 
 ### Built with
 
@@ -35,8 +32,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Refresh how to use git
+- HTML5, CSS3, Flexbox
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+- CSS grid
+
+### Useful resources
+
+- [https://towardsdatascience.com/simple-guide-to-hosting-project-on-github-aebf6f3c6f97] - This helped me for hosting HTML project. I really liked this guide and it also has the links guides for hosting React, Vue, Angular. I will use it for refference in the future.
