@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: hsl(189, 76%, 52%);
+  background-color: hsl(187, 22%, 84%);
 }
 .flex-container {
   display: flex;
@@ -13,33 +13,39 @@ body {
   flex-direction: column;
   align-items: center;
   margin: auto;
-  margin-top: 70px;
-  height: 500px;
-  width: 340px;
-  border-radius: 30px;
+  margin-top: 110px;
+  width: 280px;
+  border-radius: 15px;
 }
-.QRbox {
-  background-color: yellow;
-  margin-top: 20px;
-  width: 200px;
-  height: 200px;
-  border: none;
-  border-radius: 10px;
+img {
+  margin-top: 15px;
+  width: 250px;
+  height: 250px;
+  border-radius: 8px;
 }
 .item {
-  background: none;
-  border: 1px solid black;
-  width: 200px;
-  margin: 10px;
-  padding: 10px;
+  width: 250px;
   text-align: center;
   font-family: "Outfit", sans-serif;
-  font-size: 15px;
 }
 .item-1 {
+  color: rgb(53, 53, 68);
+  font-size: 19px;
   font-weight: 700;
+  margin-top: 10px;
+  padding: 10px;
+  margin-bottom: 0;
 }
 .item-2 {
-  font-weight: 400;
   color: grey;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0 10px 20px;
+  padding: 0 10px 15px;
+}
+footer {
+  font-family: "Outfit", sans-serif;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 10px;
 }
